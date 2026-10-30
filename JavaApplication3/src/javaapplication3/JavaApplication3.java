@@ -1,6 +1,7 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java
+ * to edit this template
  */
 package javaapplication3;
 
@@ -10,12 +11,15 @@ package javaapplication3;
  */
 public class JavaApplication3 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+
         // Modificacion realizada en main
+        // Modificacion realizada en prueba
+
+        System.out.println("Prueba de Git en NetBeans");
+        System.out.println("Version MAIN");
+        System.out.println("Version PRUEBA");
     }
-    
+
 }
+
