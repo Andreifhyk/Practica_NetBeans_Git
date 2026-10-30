@@ -18,7 +18,6 @@ public class JavaApplication3 {
 
         System.out.println("Prueba de Git en NetBeans");
         System.out.println("Version MAIN");
-        System.out.println("Version PRUEBA");
     }
 
 }
