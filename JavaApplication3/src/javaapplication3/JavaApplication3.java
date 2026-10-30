@@ -14,11 +14,16 @@ public class JavaApplication3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+
  
     // TODO code application logic here
     // Modificacion realizada en prueba
     System.out.println("Prueba de Git en NetBeans");
 }
+
+        // TODO code application logic here
+        // Modificacion realizada en main
+    }
     
 }
     
